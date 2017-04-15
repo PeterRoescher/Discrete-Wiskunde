@@ -1,0 +1,7 @@
+a) Hoeveel delers heeft het getal 28?
+b) Hoeveel delers heeft het getal 17?
+c) Wat zijn de echte delers van het getal 24?
+
+a) 1 2 7 14 28
+b) 1 17
+c) 2 4 6 8 12

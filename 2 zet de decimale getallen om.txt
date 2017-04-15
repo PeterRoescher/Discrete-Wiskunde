@@ -1,0 +1,64 @@
+Zet het decimale getal om:
+(probeer beide methodes)
+
+a)  228 naar 4-tallig
+b)  179 naar 2-tallig
+c)  307 naar 3-tallig
+d) 2775 naar 16-tallig
+
+a) Methode 1:
+   256 64 16 4 1	<-- reeks tot de 4e macht
+     0  3  2 1 0    228-64 = 164-64 = 100-64 = 36-16 = 20-16 = 4-4 = 0
+
+   Methode 2:
+	228 / 4 = 57 restwaarde 0
+	 57 / 4 = 14 restwaarde 1
+	 14 / 4 =  3 restwaarde 2
+	  3 / 4 =  0 restwaarde 3
+	  
+	Antwoord: 3210 4-tallig
+
+b) 
+	Methode 1:
+	128 64 32 16 8 4 2 1  
+	  1  0  1  1 0 0 1 1      0179-128 = 51-32 = 19-16 = 3-2 = 1-1 = 0
+	
+	Methode 2:
+	179 / 2 = 89 restwaarde 1
+	 89 / 2 = 44 restwaarde 1
+	 44 / 2 = 22 restwaarde 0
+	 22 / 2 = 11 restwaarde 0
+	 11 / 2 = 5  restwaarde 1
+	  5 / 2 = 2  restwaarde 1
+	  2 / 2 = 1  restwaarde 0
+	  1 / 2 = 0  restwaarde 1
+
+	Antwoord: 10110011   2-tallig
+
+c) 307 -> 3-tallig
+	Methode 1:
+	243 81 27 9 3 1
+	  1  0  2 1 0 1     307-243 = 64-27 = 37-27 = 10-9 = 1-1 = 0
+
+	Methode 2:
+	307 / 3 = 102 restwaarde 1
+	102 / 3 =  34 restwaarde 0
+	 34 / 3 =  11 restwaarde 1
+	 11 / 3 =   3 restwaarde 2
+	  3 / 3 =   1 restwaarde 0
+	  1 / 3 =   0 restwaarde 1
+
+	Antwoord: 
+	102101 3-tallig
+d) 
+ 2775 naar 16-tallig
+	Methode 1:
+	256 16 1
+	  A  D 7       2775-256 = 2519-256 = 2263-256 = 2007-256 = 1751-256 = 1495-256 = 1239-256 = 983-256 = 727-256 = 471-256 = 215-16 = 199-16 = 183-16 = 167-16 = 151-16 = 135-16 = 119-16 = 103-16 = 87-16 = 71-16 = 55-16 = 39-16 = 23-16 = 7
+	
+	Methode 2:
+	2775 / 16 = 173 restwaarde 7   
+	 173 / 16 =  10 restwaarde 13 (D)
+	  10 / 16 =   0 restwaarde 10 (A)
+
+	  Antowwrd: AD7 16-tallig

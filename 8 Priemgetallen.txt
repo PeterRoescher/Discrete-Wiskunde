@@ -1,0 +1,4 @@
+Welke van de volgende getallen zijn priemgetallen?
+51,   53,   61,   67,   73,   91,   96963 
+
+53, 61, 67, 73

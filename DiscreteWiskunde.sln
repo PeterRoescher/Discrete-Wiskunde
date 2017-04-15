@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week 1", "Week 1", "{518C3103-6B47-4F89-9C4D-D19B2C591D06}"
+	ProjectSection(SolutionItems) = preProject
+		Week 1\DW Week 1 Getallen - Opdrachten.pdf = Week 1\DW Week 1 Getallen - Opdrachten.pdf
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Getallenstelsels", "1. Getallenstelsels", "{E49334CE-33CB-4C7B-92C7-21F71EF20497}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Bewerkingen op getallen", "2. Bewerkingen op getallen", "{B900F740-8947-471E-B892-90CC80B92C0A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Getaltheorie", "3. Getaltheorie", "{5D960C2E-FC82-4B77-9052-EC5A99AB76E4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Losse opgaven", "4. Losse opgaven", "{08D00F64-C40E-4465-BA4E-6D027D68DF9F}"
+	ProjectSection(SolutionItems) = preProject
+		1 Math Round Math.Truncate.txt = 1 Math Round Math.Truncate.txt
+		2.txt = 2.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sheet opdrachten", "Sheet opdrachten", "{67ABA05F-A9F8-46E1-A9A2-09C68BBDB283}"
+	ProjectSection(SolutionItems) = preProject
+		1 Geef de decimale waarde van.txt = 1 Geef de decimale waarde van.txt
+		2 zet de decimale getallen om.txt = 2 zet de decimale getallen om.txt
+		3 Hex en Octaal.txt = 3 Hex en Octaal.txt
+		4 Ceiling en Floor.txt = 4 Ceiling en Floor.txt
+		5 output van 11 gedeeld door 3.txt = 5 output van 11 gedeeld door 3.txt
+		6 Modulo.txt = 6 Modulo.txt
+		7 Delers.txt = 7 Delers.txt
+		8 Priemgetallen.txt = 8 Priemgetallen.txt
+		9 Ontbinden in priemfactoren.txt = 9 Ontbinden in priemfactoren.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E49334CE-33CB-4C7B-92C7-21F71EF20497} = {518C3103-6B47-4F89-9C4D-D19B2C591D06}
+		{B900F740-8947-471E-B892-90CC80B92C0A} = {518C3103-6B47-4F89-9C4D-D19B2C591D06}
+		{5D960C2E-FC82-4B77-9052-EC5A99AB76E4} = {518C3103-6B47-4F89-9C4D-D19B2C591D06}
+		{08D00F64-C40E-4465-BA4E-6D027D68DF9F} = {518C3103-6B47-4F89-9C4D-D19B2C591D06}
+		{67ABA05F-A9F8-46E1-A9A2-09C68BBDB283} = {518C3103-6B47-4F89-9C4D-D19B2C591D06}
+	EndGlobalSection
+EndGlobal

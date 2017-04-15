@@ -1,0 +1,19 @@
+
+Precies om 12:00 op een maandag is er een zonsverduistering. De volgende zal precies 5226 uur later optreden.
+(a) Hoeveel dagen later is dat? 
+(b) Hoe laat?
+(c) Op welke dag van de week?
+
+
+a) 5226 / 24 = 217.75 = 218
+b) .75 * 24 = 18     
+    18 + 12 = 30         
+	30 / 24 = 1.25       
+	.25 * 24 = 06:00
+c) 217.75 / 7 = 31.107 weken (Restwaarde)
+   0.107 * 7 = .75 dagen
+   .75 * 24 = 18 uur
+   18 + 12:00 = 30:00 uur 
+   30 / 24 = 1.25  (Truncate)
+   maandag + 1 dag is dinsdag
+  

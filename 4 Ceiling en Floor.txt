@@ -1,0 +1,15 @@
+double[] values = 
+  {7.03, 7.64, 0.12, -0.12, -7.1, -7.6}; 
+foreach (double value in values)
+{ 
+  Console.WriteLine(Math.Ceiling(value));
+  Console.WriteLine(Math.Floor(value));
+}
+
+        Ceil, Floor
+ 7.03 ->  8,  7
+ 7.64 ->  8,  7
+ 0.12 ->  1,  0
+-0.12 ->  0, -1
+-7.1  -> -7, -8
+-7.6  -> -7, -8
